@@ -1,7 +1,7 @@
 # Workday Scheduler 
 ## Description
 This project is a very simple workday scheduler for tasks or appointments.  The app consists of a heading that displays the current day, date and year.
-
+![alttext](https://github.com/Boilermaker74/Work-Day-Scheduler/blob/main/assets/images/header.png)
 The workday is split up into eight-hour segments or time blocks starting at 9:00 AM and finishing at 5:00 PM .  Each time block represents one hour in an eight-hour workday. The user can enter text into any of the 8-hour time blocks.  The data is then stored in local storage once the save key is pressed by the user.   Also, it was interesting using DayJS in the project.  Having a temporal aspect which changes with time was a departure from the static apps that only accepted input from the user.  I learned how to incorporate data from a Web API into my code. To bring  real world data into my project. We were also introduced to jQuery. 
 ## Deployed Application URL
 https://boilermaker74.github.io/
