@@ -15,7 +15,7 @@ https://boilermaker74.github.io/
 * [Questions](#questions)
 ## Installation
 No installation is necessary. The app runs from the URL address: https://boilermaker74.github.io/  
-![alt-text](https://boilermaker74.github.io/)
+![alt-text](https://boilermaker74.github.io/assets/images/entertext.png)
 ## Features
 The time blocks change color as time passes. 
 It stores user entered text into local storage
