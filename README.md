@@ -21,7 +21,7 @@ The time blocks change color as time passes.
 It stores user entered text into local storage
 ## Languages and Technologies Used
 ![Github license](https://img.shields.io/badge/Language-HTML,CSS,JavaScript-blue.svg)
-![Github license](https://img.shields.io/badge/Technology-Mysql,N/A-blue.svg)
+![Github license](https://img.shields.io/badge/Technology-JQuerry,DayJS-blue.svg)
 ## Dependencies
 N/A
 ## How to Use This Application:
