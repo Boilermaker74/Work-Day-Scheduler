@@ -28,7 +28,7 @@ The time blocks change color as time passes. The app utilizes the API DayJS to a
 The app is dynamic. The colors of the time blocks will update as time passes. 
 ![alttext](https://github.com/Boilermaker74/Work-Day-Scheduler/blob/main/assets/images/timepast.png)
 
-It stores user entered text into local storage
+It stores user's entered text into local storage
 ## Languages and Technologies Used
 ![Github license](https://img.shields.io/badge/Language-HTML,CSS,JavaScript-blue.svg)
 ![Github license](https://img.shields.io/badge/Technology-JQuerry,DayJS-blue.svg)
