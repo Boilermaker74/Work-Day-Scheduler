@@ -15,10 +15,7 @@ https://boilermaker74.github.io/
 * [Questions](#questions)
 ## Installation
 No installation is necessary. The app runs from the URL address: https://boilermaker74.github.io/  
-![alt-text](https://boilermaker74.github.io/assets/images/entertext.png)
 ## Features
-![zQuestion 1](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/614519ed-03dc-4462-9a09-15ad2e67767d)
-![zQuestion 2](https://github.com/Boilermaker74/Work-Day-Scheduler/blob/main/assets/images/entertext.png)
 The time blocks change color as time passes. 
 It stores user entered text into local storage
 ## Languages and Technologies Used
@@ -27,7 +24,7 @@ It stores user entered text into local storage
 ## Dependencies
 N/A
 ## How to Use This Application:
-This app is designed to organize meetings or events that fill a typical workday.  The user enters data to describe the events in the appropriate time block that corresponds to the time of that event.  ![alt-text](https://boilermaker74.github.io/)The user then presses the save button to store the information. The app response with an alert stating that the data has been saved to local storage. Erasing the data is accomplished by deleting the text in the text box and again clicking the save button. 
+This app is designed to organize meetings or events that fill a typical workday.  The user enters data to describe the events in the appropriate time block that corresponds to the time of that event. ![alttext](https://github.com/Boilermaker74/Work-Day-Scheduler/blob/main/assets/images/entertext.png)The user then presses the save button to store the information. The app response with an alert stating that the data has been saved to local storage. Erasing the data is accomplished by deleting the text in the text box and again clicking the save button. 
 ## Licenses
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Contributors
