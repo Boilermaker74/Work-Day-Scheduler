@@ -44,8 +44,12 @@ Erasing the data is accomplished by deleting the text in the text box and again 
 N/A
 ## Testing
 In the assets/script.js file on line 12, the app gets the current time of day.
+
+
 ![alttext](https://github.com/Boilermaker74/Work-Day-Scheduler/blob/main/assets/images/TOD.png)
+
 Adding an arithmetic operation at the end of the line will change the time of day for the app. In this way, the color change of the time blocks can be confirmed without waiting for the actual time change. 
+
 ![alttext](https://github.com/Boilermaker74/Work-Day-Scheduler/blob/main/assets/images/TOD-5.png)
 ## Questions
 Please send your questions [here](mailto:Bradm1492@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/Boilermaker74](https://github.com/Boilermaker74).
