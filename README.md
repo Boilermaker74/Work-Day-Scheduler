@@ -39,4 +39,4 @@ Erasing the data is accomplished by deleting the text in the text box and again 
 ## Testing
 N/A
 ## Questions
-Please send your questions [here](mailto:WalterH@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/Boilermaker74](https://github.com/Boilermaker74).
+Please send your questions [here](mailto:Bradm1492@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/Boilermaker74](https://github.com/Boilermaker74).
