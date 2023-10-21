@@ -16,7 +16,12 @@ https://boilermaker74.github.io/
 ## Installation
 No installation is necessary. The app runs from the URL address: https://boilermaker74.github.io/  
 ## Features
-The time blocks change color as time passes. 
+The time blocks change color as time passes. The app utilizes the API DayJS to access the current time of day.  A time block is then compared to the current time of time of day.  If that time block’s time has passed, the block is colored grey.  If the block is in the current time frame it is colored red.  Future time blocks will be colored green.
+![alttext](https://github.com/Boilermaker74/Work-Day-Scheduler/blob/main/assets/images/timeppf.png)
+
+The app is dynamic. The colors of the time blocks will update as time passes. This project was part of a boot camp challenge, but it was exciting because it was, in my opinion, the first really practical app that we created.  It was the first challenge that I could envision using in the real world. 
+![alttext](https://github.com/Boilermaker74/Work-Day-Scheduler/blob/main/assets/images/timeppf.png)
+
 It stores user entered text into local storage
 ## Languages and Technologies Used
 ![Github license](https://img.shields.io/badge/Language-HTML,CSS,JavaScript-blue.svg)
@@ -24,7 +29,9 @@ It stores user entered text into local storage
 ## Dependencies
 N/A
 ## How to Use This Application:
-This app is designed to organize meetings or events that fill a typical workday.  The user enters data to describe the events in the appropriate time block that corresponds to the time of that event. ![alttext](https://github.com/Boilermaker74/Work-Day-Scheduler/blob/main/assets/images/entertext.png)The user then presses the save button to store the information. The app response with an alert stating that the data has been saved to local storage. Erasing the data is accomplished by deleting the text in the text box and again clicking the save button. 
+This app is designed to organize meetings or events that fill a typical workday.  The user enters data to describe the events in the appropriate time block that corresponds to the time of that event. ![alttext](https://github.com/Boilermaker74/Work-Day-Scheduler/blob/main/assets/images/entertext.png)The user then presses the save button to store the information. The app response with an alert stating that the data has been saved to local storage. 
+![alttext](https://github.com/Boilermaker74/Work-Day-Scheduler/blob/main/assets/images/timeppf.png)
+Erasing the data is accomplished by deleting the text in the text box and again clicking the save button. 
 ## Licenses
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Contributors
