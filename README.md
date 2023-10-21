@@ -17,7 +17,8 @@ https://boilermaker74.github.io/
 No installation is necessary. The app runs from the URL address: https://boilermaker74.github.io/  
 ![alt-text](https://boilermaker74.github.io/)
 ## Features
-The time blocks change color as time passes. It stores user entered text into local storage
+The time blocks change color as time passes. 
+It stores user entered text into local storage
 ## Languages and Technologies Used
 ![Github license](https://img.shields.io/badge/Language-HTML,CSS,JavaScript-blue.svg)
 ![Github license](https://img.shields.io/badge/Technology-Mysql,N/A-blue.svg)
