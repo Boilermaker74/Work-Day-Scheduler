@@ -41,7 +41,7 @@ Erasing the data is accomplished by deleting the text in the text box and again 
 ## Licenses
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Contributors
-
+N/A
 ## Testing
 N/A
 ## Questions
