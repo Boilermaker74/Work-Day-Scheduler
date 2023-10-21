@@ -19,8 +19,8 @@ No installation is necessary. The app runs from the URL address: https://boilerm
 The time blocks change color as time passes. The app utilizes the API DayJS to access the current time of day.  A time block is then compared to the current time of time of day.  If that time block’s time has passed, the block is colored grey.  If the block is in the current time frame it is colored red.  Future time blocks will be colored green.
 ![alttext](https://github.com/Boilermaker74/Work-Day-Scheduler/blob/main/assets/images/timeppf.png)
 
-The app is dynamic. The colors of the time blocks will update as time passes. This project was part of a boot camp challenge, but it was exciting because it was, in my opinion, the first really practical app that we created.  It was the first challenge that I could envision using in the real world. 
-![alttext](https://github.com/Boilermaker74/Work-Day-Scheduler/blob/main/assets/images/timeppf.png)
+The app is dynamic. The colors of the time blocks will update as time passes. 
+![alttext](https://github.com/Boilermaker74/Work-Day-Scheduler/blob/main/assets/images/timepast.png)
 
 It stores user entered text into local storage
 ## Languages and Technologies Used
