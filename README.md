@@ -35,9 +35,16 @@ It stores user's entered text into local storage
 ## Dependencies
 N/A
 ## How to Use This Application:
-This app is designed to organize meetings or events that fill a typical workday.  The user enters data to describe the events in the appropriate time block that corresponds to the time of that event. ![alttext](https://github.com/Boilermaker74/Work-Day-Scheduler/blob/main/assets/images/entertext.png)The user then presses the save button to store the information. The app responses with an alert stating that the data has been saved to local storage. 
+This app is designed to organize meetings or events that fill a typical workday.  The user enters data to describe the events in the appropriate time block that corresponds to the time of that event. 
+
+![alttext](https://github.com/Boilermaker74/Work-Day-Scheduler/blob/main/assets/images/entertext.png)
+
+The user then presses the save button to store the information. The app responses with an alert stating that the data has been saved to local storage. 
+
 ![alttext](https://github.com/Boilermaker74/Work-Day-Scheduler/blob/main/assets/images/datastored.png)
+
 Erasing the data is accomplished by deleting the text in the text box and again clicking the save button. 
+
 ## Licenses
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Contributors
